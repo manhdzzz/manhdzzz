@@ -43,12 +43,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manhdzzz&theme=monokai" width="65%" alt="GitHub Profile Summary">
 </div>
 
-### 📈 Hoạt động trong tuần
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=manhdzzz&theme=synthwave&hide_border=true" width="65%" alt="Wakatime Stats">
-</div>
-
 ### 📊 Ngôn ngữ được sử dụng nhiều nhất
 
 <div align="center">
